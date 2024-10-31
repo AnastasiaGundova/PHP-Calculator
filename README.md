@@ -18,4 +18,7 @@ This is a basic web-based calculator built with HTML and PHP.
 
 - Displays an error message for invalid inputs or division by zero.
 
-![image](https://github.com/user-attachments/assets/929047a0-a9ca-471b-8d38-2ecbf4800e28)
+![image](https://github.com/user-attachments/assets/b6cf3d7d-2866-4f8d-a257-8199f3109bd9)
+![image](https://github.com/user-attachments/assets/947e2b22-8d36-4edb-a053-bec4ae2b0431)
+![image](https://github.com/user-attachments/assets/9c9fa7b6-a323-4e3d-840f-62711fe04bf3)
+
